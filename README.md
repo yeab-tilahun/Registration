@@ -1,2 +1,2 @@
 # Registration
-Registration system for Ethiopian Janderebaw Generation
+A registration web api for Ethiopian Janderebaw Generation
